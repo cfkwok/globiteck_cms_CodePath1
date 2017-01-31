@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/style.css",
+		"/C/Program Files/nodejs/node_modules/goingnative/README.md",
+		"/C/Users/cfaik/SeniorProj/bindings.gyp",
+		"/C/wamp64/www/test_sockets.php",
+		"/C/wamp64/www/index.php",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/mult.asm",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestCaseC.asm",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestCaseB.asm",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestCaseB.mif",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/mult.mif",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestCaseA.asm",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestSTAA.mif",
+		"/C/Users/cfaik/Downloads/Small8TestPackage/TestCaseA.asm",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/small8/deliv1/Small8TestPackage/TestCaseA.mif",
+		"/C/Users/cfaik/AppData/Local/Temp/Rar$DIa0.278/mult.mif",
+		"/C/Users/cfaik/Desktop/school/F16/networks/P2PFileShare/src/Common.cfg",
+		"/C/Users/cfaik/Downloads/OpenBCI_Processing-openvibelink/scripts/launch_ov-acquisition-server_processing.sh",
+		"/C/Users/cfaik/Desktop/p300-spatial-filter.cfg",
+		"/C/Users/cfaik/Desktop/outputlab6.mif",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/lab6/lab6pt1/FIR_INPUT.mif",
+		"/C/Users/cfaik/Desktop/school/F16/EEL4712/lab4/lab4pt3_3/brom.mif",
+		"/C/Users/cfaik/Downloads/Small8TestPackage/mult.asm",
+		"/C/Users/cfaik/Downloads/ramdata.mif",
+		"/C/Program Files (x86)/openvibe018/share/openvibe/scenarios/bci-examples/p300-coadapt-stimulator/p300-spatial-filter.cfg",
+		"/C/Program Files (x86)/openvibe/share/openvibe/scenarios/bci-examples/p300-speller-xDAWN/p300-spatial-filter.cfg",
+		"/C/Users/cfaik/Downloads/Sample Server.java",
+		"/C/Users/cfaik/Downloads/Sample Client.java",
+		"/C/Users/cfaik/Desktop/school/F16/networks/P2P App Specs"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\",
+			"C:\\Users\\cfaik\\Desktop\\school\\F16\\EEL4712\\small8\\deliv1\\Small8TestPackage",
+			"\\",
+			"1?1=2",
+			"1.1=2",
+			"1+1=2",
+			"\\b[A-Z0-9.]+@[A-Z0-9].\\b",
+			"\\b[A-Z0-9.]+@[A-Z0-9]\\b",
+			"\\b[A-Z0-9.]+@[A-Z0-9]+\\b",
+			"\\b[A-Z0-9.]+@[A-Z0-9]\\b",
+			"\\b[A-Z0-9.]+@\\b",
+			"\\b[A-Z0-9.]+\\b",
+			"\\b[A-Z0-9._]\\b",
+			"\\b[A-Z0-9.]\\b",
+			"\\b[A-Z0-9.+]\\b",
+			"\\b[A-Z0-9.]\\b",
+			"\\b\\b",
+			"\\b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "globitek_week1.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
